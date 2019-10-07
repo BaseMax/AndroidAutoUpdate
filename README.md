@@ -13,6 +13,10 @@ A tiny class to check automatically the Android application, if there are a newe
 
 - Use notification or socket to detect when we have new version!
 
+## Based On
+
+- OkHttp
+
 ---------
 
 # Max Base
